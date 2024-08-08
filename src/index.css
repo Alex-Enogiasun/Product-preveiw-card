@@ -75,6 +75,13 @@ button{
   margin-left: -10px;
 }
 
+button:hover{
+  color:black;
+  font-weight: bolder;
+  background-color: yellow;
+  cursor:pointer;
+}
+
 #price1{
   font-weight: 700;
   font-size: 20px;
@@ -161,6 +168,13 @@ button{
   margin-left: -20px;
   border-radius: 10px;
   background-color: hsl(158, 36%, 37%);
+}
+
+button:hover{
+  color:black;
+  font-weight: bolder;
+  background-color: yellow;
+  cursor:pointer;
 }
 
 #price1{
